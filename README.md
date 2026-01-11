@@ -1,11 +1,10 @@
-# Hi 👋, I'm Nitesh Sah
+# Hi 👋, Welcome to my profile
 
 🎓 Final-year Computer Engineering undergraduate  
 💻 Full-Stack Developer | Problem Solver  
 📍 Nepal  
 
-I enjoy building **practical, real-world software systems** and learning things from the first principles.  
-Currently focused on **full-stack development, system design, and AI**.
+I enjoy building **practical, real-world software systems** and learning things from the first principles. Currently focused on **full-stack development, system design, and AI**.
 
 ---
 
