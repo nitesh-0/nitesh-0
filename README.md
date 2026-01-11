@@ -17,7 +17,7 @@ Currently focused on **full-stack development, system design, and AI**.
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,sql)
 
 ### Technologies
-![Tech](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mongodb,docker,linux)
+![Tech](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mongodb,docker,prisma,linux,tailwind,git,github)
 
 
 ---
