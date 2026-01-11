@@ -11,20 +11,14 @@ Currently focused on **full-stack development, system design, and AI**.
 
 ## 🛠 Tech Stack
 
-**Languages**
-- JavaScript (ES6+), - TypeScript - Python
+## 🛠 Tech Stack
 
-**Frontend**
-- React - Next.js - HTML5, CSS3
+### Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python,sql)
 
-**Backend**
-- Node.js - Express.js - REST APIs - Authentication (JWT, NextAuth)
+### Technologies
+![Tech](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mongodb,docker,linux)
 
-**Databases**
-- PostgreSQL - MongoDB
-
-**Tools & Platforms**
-- Git & GitHub - Docker - Vercel, Render - pgAdmin
 
 ---
 
