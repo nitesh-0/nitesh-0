@@ -28,7 +28,7 @@ Currently focused on **full-stack development, system design, and AI**.
 ---
 
 ## 📫 How to Reach Me
-- **Email:** nitessah760@gmail.com  
+- **Email:** niteshsah760@gmail.com  
 - **GitHub:** https://github.com/nitesh-0 
 - **LinkedIn:** https://www.linkedin.com/in/nitesh-sah-87b823304/
 
